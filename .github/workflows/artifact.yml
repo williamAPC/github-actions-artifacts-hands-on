@@ -1,6 +1,7 @@
 name: Workflow Demo
 
-on: [push]
+on:
+  push:
 
 jobs:
   build:
